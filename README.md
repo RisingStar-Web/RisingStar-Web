@@ -2,79 +2,55 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/Roy_Chong-blue?style=social&logo=Linkedin&logoColor=blue&link=https://linkedin.com/in/roy-chong-0914)](https://linkedin.com/in/roy-chong-0914) [![Twitter Badge](http://img.shields.io/badge/-@Roy_Chong-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://https://twitter.com/roy_chong_14)](https://twitter.com/roy_chong_14) [![GitHub followers](https://img.shields.io/github/followers/RisingStar-Web?label=Follow&style=social)](https://github.com/RisingStar-Web/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-Roy_Chong-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:roychongdev14@gmail.com)](mailto:roychongdev14@gmail.com)
 
-#### A brief intro 😘😘 :
+<h1 align="center">Hi, there! 👋</h1>
 
-- A Full Stack(Node/React/Graphql) dev in love with the JavaScript ecosystem who enjoys understanding and working on this service.
+<h3 align="center">🙏🙏🙏  Thanks for reaching out to me! 🙏🙏🙏 </h3>
 
-* 🔭 I have experience with technologies like React with use it with Material-ui with next and redux with thunk , Node with mongodb and GraphQL Prisma,ORM can be make Rest API or GraphQL .
+## 💪 Overview
 
-* GraphQL and TypeScript have blown me away and the Developer Experience that they provide makes me never wanna go back to REST and JS .
+<p>
+  <a href="https://github.com/RisingStar-Web/RisingStar-Web" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=RisingStar-Web&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
+  </a>
+  
+  <a href="https://github.com/RisingStar-Web/RisingStar-Web" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RisingStar-Web&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="RisingStar-Web's GitHub Stats" height="180px"/>
+  </a>
+  
+ </p>
+ 
+ <p>
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=RisingStar-Web&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+ </p>
+ 
+<br />
 
-#### Hobbies ⚡
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RisingStar-Web&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
 
-- I love watching and go-to an event that related to technology spend the most time learning now technology.
+<br />
 
-* 📚 I like reading books and articles in my spare time also write some articles and solve problems in StackOverflow.
+## 📖 Languages
+ 
+<div align="left">
+  <img src="https://img.shields.io/badge/Solidity-9E9E9E?style=for-the-badge&logo=solidity&logoColor=black">
+  <img src="https://img.shields.io/badge/Rust-CC342D?style=for-the-badge&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-430098?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<div/>
 
-- Lastly, always I love working with a team focus on new technology special that it creates new and which world needs it.
+<br />
 
-**Languages and Tools:**
-
-<div style="dispaly:flex; justify-content:space-between;">
-<a href="https://aws.amazon.com" target="_blank">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
- alt="aws" width="40" height="40"/> </a>     
-   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-    alt="css3" width="40" height="40"/> </a>
-      <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-    alt="express" width="40" height="40"/> </a> 
-   <a href="https://git-scm.com/" target="_blank"> 
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-   <a href="https://graphql.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>   
-    <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40"
-     height="40"/> </a> 
-     <a href="https://www.w3.org/html/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
-      alt="html5" width="40" height="40"/> </a>
-       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-         alt="javascript" width="40" height="40"/> </a>
-          <a href="https://jestjs.io" target="_blank"> 
-          <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-               <a href="https://www.mongodb.com/" target="_blank"> 
-               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                alt="mongodb" width="40" height="40"/> </a>
-                  <a href="https://nextjs.org/" target="_blank"> 
-                  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> 
-                  <a href="https://nodejs.org" target="_blank">
-                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
-                   alt="nodejs" width="40" height="40"/> </a> 
-                       <a href="https://postman.com" target="_blank">
-                        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" 
-                        height="40"/> </a> 
-                         <a href="https://reactjs.org/" target="_blank"> 
-                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                          alt="react" width="40" height="40"/> </a> 
-                             <a href="https://redux.js.org" target="_blank"> 
-                             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" 
-                             alt="redux" width="40" height="40"/> </a>
-                                 </a> <a href="https://tailwindcss.com/" target="_blank"> 
-                                 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
-                                 alt="tailwind" width="40" height="40"/> </a>
-                                  <a href="https://www.typescriptlang.org/" target="_blank">
-                                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
-                                   alt="typescript" width="40" height="40"/> </a> 
-                                  <a href="https://webpack.js.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" 
-alt="webpack" width="40" height="40"/> </a>
-
-#### found me in 🎉 @
-
-- [Twitter](https://twitter.com/roy_chong_14)
-- [Email](roychongdev14@gmail.com)
-- [Website](https://risingdevstar.com)
-- [LinkedIn](https://www.linkedin.com/in/roy-chong-0914/)
-- [Stackoverflow](https://stackoverflow.com/users/12125269/roy-chong)
-
-thank fro you to read my cv 🤷‍♂️🤷‍♀️
+![](https://komarev.com/ghpvc/?username=RisingStar-Web&color=0000ff)
