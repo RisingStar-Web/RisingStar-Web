@@ -1,10 +1,12 @@
-### Hello everyone 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/Roy_Chong-blue?style=social&logo=Linkedin&logoColor=blue&link=https://linkedin.com/in/roy-chong-0914)](https://linkedin.com/in/roy-chong-0914) [![Twitter Badge](http://img.shields.io/badge/-@Roy_Chong-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://https://twitter.com/roy_chong_14)](https://twitter.com/roy_chong_14) [![GitHub followers](https://img.shields.io/github/followers/RisingStar-Web?label=Follow&style=social)](https://github.com/RisingStar-Web/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-Roy_Chong-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:roychongdev14@gmail.com)](mailto:roychongdev14@gmail.com)
 
 <h1 align="center">Hi, there! 👋</h1>
 
 <h3 align="center">🙏🙏🙏  Thanks for reaching out to me! 🙏🙏🙏 </h3>
+
+### Hello everyone 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/Roy_Chong-blue?style=social&logo=Linkedin&logoColor=blue&link=https://linkedin.com/in/roy-chong-0914)](https://linkedin.com/in/roy-chong-0914) [![Twitter Badge](http://img.shields.io/badge/-@Roy_Chong-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://https://twitter.com/roy_chong_14)](https://twitter.com/roy_chong_14) [![GitHub followers](https://img.shields.io/github/followers/RisingStar-Web?label=Follow&style=social)](https://github.com/RisingStar-Web/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-Roy_Chong-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:roychongdev14@gmail.com)](mailto:roychongdev14@gmail.com)
 
 ## 💪 Overview
 
