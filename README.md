@@ -5,7 +5,7 @@
 <h3 align="center">🙏🙏🙏  Thanks for reaching out to me! 🙏🙏🙏 </h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
-<img align="right" alt="GIF" src="https://github.com/v08nike/v08nike/blob/main/javascript.gif" width="420" />
+<img align="right" alt="GIF" src="https://github.com/RisingStar-Web/RisingStar-Web/blob/master/coding-gif.gif" width="420" />
 
 As a Full Stack Developer with extensive experience in React, Node.js and Solidity, I am passionate about creating robust, scalable applications that deliver a seamless user experience. With a deep understanding of the latest technologies and best practices, I am committed to delivering high-quality code that meets project requirements and exceeds client expectations.
 
