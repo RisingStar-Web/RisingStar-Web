@@ -1,4 +1,4 @@
-<img alt="full stack developer" src="https://github.com/v08nike/v08nike/blob/main/Screenshot_2.png" width="100%" />
+<img alt="full stack developer" src="https://github.com/RisingStar-Web/RisingStar-Web/blob/master/full-stack.png" width="100%" />
 
 <h1 align="center">Hi, there! 👋</h1>
 
